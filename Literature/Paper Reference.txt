@@ -1,0 +1,34 @@
+@inproceedings{strickson2020legal,
+  title={Legal judgement prediction for uk courts},
+  author={Strickson, Benjamin and De La Iglesia, Beatriz},
+  booktitle={Proceedings of the 2020 The 3rd International Conference on Information Science and System},
+  pages={204--209},
+  year={2020}
+}
+@article{luo2017learning,
+  title={Learning to predict charges for criminal cases with legal basis},
+  author={Luo, Bingfeng and Feng, Yansong and Xu, Jianbo and Zhang, Xiang and Zhao, Dongyan},
+  journal={arXiv preprint arXiv:1707.09168},
+  year={2017}
+}
+@article{xiao2018cail2018,
+  title={Cail2018: A large-scale legal dataset for judgment prediction},
+  author={Xiao, Chaojun and Zhong, Haoxi and Guo, Zhipeng and Tu, Cunchao and Liu, Zhiyuan and Sun, Maosong and Feng, Yansong and Han, Xianpei and Hu, Zhen and Wang, Heng and others},
+  journal={arXiv preprint arXiv:1807.02478},
+  year={2018}
+}
+@inproceedings{long2019automatic,
+  title={Automatic judgment prediction via legal reading comprehension},
+  author={Long, Shangbang and Tu, Cunchao and Liu, Zhiyuan and Sun, Maosong},
+  booktitle={China National Conference on Chinese Computational Linguistics},
+  pages={558--572},
+  year={2019},
+  organization={Springer}
+}
+@inproceedings{zhuopeng2020multi,
+  title={Multi-task Legal Judgement Prediction Combining a Subtask of Seriousness of Charge},
+  author={Zhuopeng, Xu and Xia, Li and Yinlin, Li and Zihan, Wang and Yujie, Fanxu and Xiaoyan, Lai},
+  booktitle={Proceedings of the 19th Chinese National Conference on Computational Linguistics},
+  pages={1132--1142},
+  year={2020}
+}
