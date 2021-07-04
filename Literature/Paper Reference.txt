@@ -32,3 +32,10 @@
   pages={1132--1142},
   year={2020}
 }
+@inproceedings{stranieri1999evaluation,
+  title={The evaluation of legal knowledge based systems},
+  author={Stranieri, Andrew and Zeleznikow, John},
+  booktitle={Proceedings of the 7th international conference on Artificial intelligence and law},
+  pages={18--24},
+  year={1999}
+}
